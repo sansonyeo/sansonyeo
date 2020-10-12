@@ -5,8 +5,16 @@
 </div>
 
 <div align=center>
+ <img src="https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/mtngirl">&nbsp;
+ <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitedovey@gmail.com">&nbsp;
+ <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/whiteDove95">
+</div>
+
+<div align=center>
    
-  [![Keybase Badge](https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/mtngirl)](https://keybase.io/mtngirl)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitedovey@gmail.com)](mailto:whitedovey@gmail.com)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/whiteDove95)](https://twitter.com/whiteDove95)
+  [![Keybase Badge](https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/mtngirl)](https://keybase.io/mtngirl)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitedovey@gmail.com)](mailto:whitedovey@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/whiteDove95)](https://twitter.com/whiteDove95)
    
 </div>
 
