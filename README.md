@@ -3,11 +3,8 @@
 <div align=center>
   <img width=400 height=310 src="somdari.jpg">
 </div>
-  [![Keybase Badge](https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/mtngirl)](https://keybase.io/mtngirl)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitedovey@gmail.com)](mailto:whitedovey@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/whiteDove95)](https://twitter.com/whiteDove95)
+  
 <div align=center>
- 
   <h4 align="center">Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri.</h4>
   <h4 align="center">자연을 아끼며 산악문학에 관심이 많은 산악 애호가인 동시에 윈도우 응용프로그램 생계형 개발자입니다.</h4>
   
