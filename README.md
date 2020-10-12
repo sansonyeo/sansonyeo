@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Korea Mountain Girl 👧</h2>
  
 <div align=center>
-  <img width=400 height=310 src="somdari.jpg"></br>
+  <img width=400 height=310 src="somdari.jpg">
   <img scr="https://img.shields.io/badge/-Keybase-33A0FF?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/mtngirl">
 </div>
 
