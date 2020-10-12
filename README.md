@@ -32,7 +32,7 @@
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/whiteDoveY)](https://www.facebook.com/whiteDoveY)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/mtngirl_yun)](https://www.instagram.com/mtngirl_yun)
   
-https://emojipedia.org/snow-capped-mountain/
+https://emojipedia.org/snow-capped-mountain/ 
   -------
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sangirl&repo=master)](https://github.com/sangirl/master)
 ### Hi there 👋 :ski:
