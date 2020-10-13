@@ -31,6 +31,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
-# 타이틀 제목
-title: "SanSoYeo blog"
