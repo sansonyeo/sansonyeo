@@ -27,7 +27,7 @@
 ## Working Project (WebService)
 
 - [**닷넷 웹서비스 구현중 sansonyeo:86**](http://112.151.93.8:86/WebService1.asmx?op=SelectCertificates)
-- [**닷넷 웹서비스 구현중 localhost:86**](http://192.168.219.105:86/WebService1.asmx?op=SelectCertificates)
+- [**닷넷 웹서비스 구현중 localhost:86**](http://192.168.219.111:86/WebService1.asmx?op=SelectCertificates)
 
 
 <!-- 
