@@ -13,7 +13,7 @@
 
 <div align=center>
   <h4 align="center">Korea Mountain Girl and Application Software Developer especially likes Mt.Seorak Mt.Bukhan and Mt.Jiri.</h4>
-  <h4 align="center">자연을 아끼며 산악문학에 관심이 많은 산악 애호가인 동시에 윈도우 응용프로그램 생계형 개발자입니다. </h4>
+  <h4 align="center">자연을 아끼며 산악문학에 관심이 많은 산악 애호가인 동시에 닷넷 응용프로그램 개발자입니다. </h4>
 </div>
 
 -------
